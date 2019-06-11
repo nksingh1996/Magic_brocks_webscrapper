@@ -1,4 +1,4 @@
-# Magic_brocks_webscrapper
+# Magic_bricks_webscrapper
 webscrapper_magic_bricks
 Using selenium , beautifulsoup, url and permutations to webscrap magic bricks
 1. using selenium and permutations get all the suggested regions from magic brick website
